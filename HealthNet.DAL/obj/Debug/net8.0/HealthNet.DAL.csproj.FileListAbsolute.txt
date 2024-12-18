@@ -1,0 +1,14 @@
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.csproj.AssemblyReference.cache
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.AssemblyInfoInputs.cache
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.AssemblyInfo.cs
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.csproj.CoreCompileInputs.cache
+D:\HealthNet.Business\HealthNet.DAL\bin\Debug\net8.0\HealthNet.DAL.deps.json
+D:\HealthNet.Business\HealthNet.DAL\bin\Debug\net8.0\HealthNet.DAL.runtimeconfig.json
+D:\HealthNet.Business\HealthNet.DAL\bin\Debug\net8.0\HealthNet.DAL.dll
+D:\HealthNet.Business\HealthNet.DAL\bin\Debug\net8.0\HealthNet.DAL.pdb
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.dll
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\refint\HealthNet.DAL.dll
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.pdb
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\HealthNet.DAL.genruntimeconfig.cache
+D:\HealthNet.Business\HealthNet.DAL\obj\Debug\net8.0\ref\HealthNet.DAL.dll

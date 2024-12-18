@@ -1,0 +1,6 @@
+@HealthNet.Business_HostAddress = http://localhost:5276
+
+GET {{HealthNet.Business_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

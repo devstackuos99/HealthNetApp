@@ -1,0 +1,15 @@
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNet.BL.csproj.AssemblyReference.cache
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNet.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNet.BL.AssemblyInfoInputs.cache
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNet.BL.AssemblyInfo.cs
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNet.BL.csproj.CoreCompileInputs.cache
+D:\HealthNet.Business\HealthNet.BL\bin\Debug\net8.0\HealthNet.BL.deps.json
+D:\HealthNet.Business\HealthNet.BL\bin\Debug\net8.0\HealthNet.BL.dll
+D:\HealthNet.Business\HealthNet.BL\bin\Debug\net8.0\HealthNet.BL.pdb
+D:\HealthNet.Business\HealthNet.BL\bin\Debug\net8.0\HealthNet.DAL.dll
+D:\HealthNet.Business\HealthNet.BL\bin\Debug\net8.0\HealthNet.DAL.pdb
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNe.D61F1FA4.Up2Date
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNet.BL.dll
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\refint\HealthNet.BL.dll
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\HealthNet.BL.pdb
+D:\HealthNet.Business\HealthNet.BL\obj\Debug\net8.0\ref\HealthNet.BL.dll
